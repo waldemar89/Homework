@@ -4,6 +4,7 @@ public class Cat extends Animal {
     private static int count;
     public Cat ( int animalSwim, int animalRun, String petsName ){
         super(animalSwim,animalRun,petsName);
+
         count++;
     }
 
