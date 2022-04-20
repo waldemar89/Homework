@@ -4,10 +4,10 @@ import java.util.Arrays;
 
 public class ArrayChange<T> {
     public static void main(String[] args) {
-        Integer[] intArr = {4, 5, 8, 11, 3};
-        swapItems(intArr, 0, 4);
-        String[] strArr = {"Hello", "World", "!"};
-        swapItems(strArr, 0, 2);
+        Integer[] intArr = {9, 5, 22, 11, 6};
+        swapItems(intArr, 0, 3);
+        String[] strArr = {"Home", "Work", "!"};
+        swapItems(strArr, 0, 1);
 
     }
 
