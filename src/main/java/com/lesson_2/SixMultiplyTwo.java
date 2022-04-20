@@ -17,3 +17,4 @@ public class SixMultiplyTwo {
         return array;
     }
 }
+
